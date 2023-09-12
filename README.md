@@ -60,7 +60,8 @@ The script will now automatically run at startup. During daytime hours (7 AM to 
 
 Here's an overview of the script's main components:
 
-    The script contains two functions:
+  The script contains two functions:
+  
   **switch_to_light_theme**: Switches the XFCE theme to the specified light theme.
   
   **switch_to_dark_theme**: Switches the XFCE theme to the specified dark theme.
